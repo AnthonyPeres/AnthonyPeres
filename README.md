@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working as a Business Analyst
 - 🌱 I’m currently learning React.js, Node.js, Python
-- ⚙️ I use daily: `.ipynb`, `.py`, `.js`, `.html`, `.scss`
+- ⚙️ I use daily:  `.ts`, `.cs`, `.ipynb`, `.py`, `.js`, `.html`, `.scss`
 
 <!--
 **AnthonyPeres/AnthonyPeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
