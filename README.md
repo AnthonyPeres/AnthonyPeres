@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working as a Business Analyst
 - 🌱 I’m currently learning blockchain development
-- ⚙️ I use daily:  `.sol`, `.ts`, `.cs`, `.ipynb`, `.py`, `.js`, `.html`, `.scss`
+- ⚙️ I use daily:  `.sol`, `.ts`, `.tsx`, `.ipynb`, `.py`, `.js`, `.html`, `.scss`
 
 <!--
 **AnthonyPeres/AnthonyPeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
