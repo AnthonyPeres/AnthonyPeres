@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently working as Business Analyst
+- 🔭 I am currently working as a Business Analyst
 - 🌱 I’m currently learning blockchain development
 - ⚙️ I use daily:  `.sol`, `.ts`, `.tsx`, `.ipynb`, `.py`, `.js`, `.html`, `.scss`
 
