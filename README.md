@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I am currently working as a Business Analyst
-- 🌱 I’m currently learning blockchain development
-- ⚙️ I use daily:  `.sol`, `.ts`, `.tsx`, `.ipynb`, `.py`, `.js`, `.html`, `.scss`
+- 🌱 I’m currently learning AI and iOS development 
+- ⚙️ I use daily:  `.swift`, `.ts`, `.js`, `.ipynb`, `.py`
 
 <!--
 **AnthonyPeres/AnthonyPeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
