@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working as a Business Analyst and Freelance Developer
 - 🌱 I’m currently learning AI and iOS development 
-- ⚙️ I use daily:  `.tsx`, `.swift`, `.ts`, `.js`, `.ipynb`, `.py`
+- ⚙️ I use daily:  `.tsx`, `.ts`, `.js`, `.py`
 
 <!--
 **AnthonyPeres/AnthonyPeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
